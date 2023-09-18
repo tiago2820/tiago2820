@@ -1,5 +1,5 @@
 # Hi there 👋
-## I’m @tiago2820
+I’m @tiago2820
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning image processing
