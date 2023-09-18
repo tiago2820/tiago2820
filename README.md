@@ -1,7 +1,7 @@
 # Hi there 👋
 I’m @tiago2820
 
-- 👀 I’m interested in ...
+- 👀 I’m interested in website developing and graphic design.
 - 🌱 I’m currently learning image processing
 - 💞️ I’m looking to collaborate on ...
 
