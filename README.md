@@ -7,23 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/tiago2002" target="blank"><img src="https://img.shields.io/twitter/follow/tiago2002?logo=twitter&style=for-the-badge" alt="tiago2002" /></a> </p>
 
-- 🔭 I’m currently working on **k**
-
 - 🌱 I’m currently learning **Image Processing**
-
-- 👯 I’m looking to collaborate on **k**
 
 - 🤝 I’m looking for help with **OpenCV, Numpy, Scikit-learn and Scikit-image**
 
-- 👨‍💻 All of my projects are available at [k](k)
-
-- 📝 I regularly write articles on [k](k)
-
 - 💬 Ask me about **HTML5, CSS, JS, C# and Java**
-
-- 📫 How to reach me **k**
-
-- 📄 Know about my experiences [k](k)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
