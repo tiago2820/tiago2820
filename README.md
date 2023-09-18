@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiago2820&label=Profile%20views&color=0e75b6&style=flat" alt="tiago2820" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiago2820" alt="tiago2820" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Image Processing**
@@ -12,8 +10,6 @@
 - 🤝 I’m looking for help with **OpenCV, Numpy, Scikit-learn and Scikit-image**
 
 - 💬 Ask me about **HTML5, CSS, JS, C# and Java**
-
-- ⚡ Fun fact **htm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
